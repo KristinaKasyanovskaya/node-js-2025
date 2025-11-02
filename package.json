@@ -1,0 +1,17 @@
+{
+  "name": "file-manager",
+  "version": "1.0.0",
+  "description": "File Manager using Node.js APIs",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": ["file-manager", "cli"],
+  "author": "",
+  "license": "ISC",
+  "engines": {
+    "node": ">=24.14.0"
+  }
+}
+
